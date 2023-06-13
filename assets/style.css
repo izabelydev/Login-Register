@@ -228,6 +228,11 @@ header {
     font-size: 1em;
     color: #162938;
     font-weight: 600;
+    transition: .5s;
+}
+
+.bt-entrar:hover {
+    background: rgba(255,255,255,.65);
 }
 
 .login-registrar {
